@@ -1,0 +1,11 @@
+# Ignorer l'environnement virtuel et toutes ses dépendances
+recherche_seman\shrch
+
+# Ignorer les fichiers de cache Python
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorer les dossiers d'IDE 
+.vscode/
+.idea/
